@@ -1,4 +1,4 @@
-set(SM_REV 99d3bca2aa1f477d3f7f3dcbad2ef2218c14f41b)
+set(SM_REV 5df1f9059b456b5d329ebcf0126a114ae2b50277)
 
 if (CMAKE_BUILD_TYPE STREQUAL "Debug")
     set(SM_BUILD_TYPE debug)
